@@ -1,8 +1,8 @@
 /*
 Theme Name:mx.press
-Theme URI:http://marko.anastasov.name/blog
+Theme URI:http://www.marko.anastasov.name/blog
 Description:A variation of Kubrick
-Version:1.76
+Version:1.985
 Author:mx.
 Author URI:http://marko.anastasov.name
 Tags:minimal, simple, clean, white, fixed width, two columns, right sidebar, widget ready
@@ -110,11 +110,12 @@ h3 {
 
 h1, h1 a, h1 a:hover, h1 a:visited, #headerimg .description {
     text-decoration: none;
-    color: #660B0B;
+    color: #F10C49;
 }
 
 h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited {
-    color: #8F7777;
+    color: #FB6B41;
+    background: #EEE;
 }
 
 h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar h2, #wp-calendar caption, cite {
@@ -175,22 +176,23 @@ acronym, abbr, span.caps
 }
 
 a {
-    color: #660b0b;
+    color: #339194;
     text-decoration: none;
 }
 
 h2 a:hover, h3 a:hover {
-    color: #F7F7D7;
+    color: #F6D86B;
+    background: #A70267;
 }
 
 h1 a:hover {
-    color: #660b0b;
-    background: #fff;
+    color: #FB6B41;
+    background: #FFF;
 }
 
 a:hover {
-    color: #F7F7D7;
-    background: #660b0b;
+    color: #EEE;
+    background: #A70267;
     text-decoration: none;
 }
 
