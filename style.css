@@ -51,6 +51,10 @@ body {
     line-height: 1.4em;
 }
 
+.entry pre {
+    font-size: 75%;
+}
+
 .widecolumn {
     line-height: 1.6em;
 }
