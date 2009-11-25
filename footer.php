@@ -6,15 +6,21 @@
 ?>
 
 <hr />
-<div id="footer">
-	<p>
-		<?php bloginfo('name'); ?> is written by
-		<a href="http://www.marko.anastasov.name" rel="me">Marko Anastasov</a>
-		and powered by <a href="http://wordpress.org/">WordPress</a>
-                with RSS feeds for
-                <a href="<?php bloginfo('rss2_url'); ?>">Entries</a>
-		and <a href="<?php bloginfo('comments_rss2_url'); ?>">Comments</a>.
-		<!-- <?php echo get_num_queries(); ?> queries. <?php timer_stop(1); ?> seconds. -->
+<div id="footer" class="narrowcolumn">
+  <p>
+    <?php bloginfo('name'); ?> is written by
+    <a href="http://www.marko.anastasov.name" rel="me">Marko Anastasov</a>
+    and powered by <a href="http://wordpress.org/">WordPress</a>
+    with RSS feeds for
+    <a href="<?php bloginfo('rss2_url'); ?>">entries</a>
+    and <a href="<?php bloginfo('comments_rss2_url'); ?>">comments</a>.
+	  All original content is licensed under the
+	  <a href="http://creativecommons.org/licenses/by/3.0/rs/" rel="license">
+	    Creative Commons Attribution 3.0 Serbia License
+	  </a>
+	  except that which is quoted from elsewhere or attributed to others.
+	  In short, you may reproduce, reblog, and modify my content, but you must
+	  provide proper attribution.
 	</p>
 </div>
 </div>
