@@ -14,14 +14,12 @@
     with RSS feeds for
     <a href="<?php bloginfo('rss2_url'); ?>">entries</a>
     and <a href="<?php bloginfo('comments_rss2_url'); ?>">comments</a>.
-	  All original content is licensed under the
-	  <a href="http://creativecommons.org/licenses/by/3.0/rs/" rel="license">
-	    Creative Commons Attribution 3.0 Serbia License
-	  </a>
-	  except that which is quoted from elsewhere or attributed to others.
-	  In short, you may reproduce, reblog, and modify my content, but you must
-	  provide proper attribution.
-	</p>
+    All original content is licensed under the
+    <a href="http://creativecommons.org/licenses/by/3.0/rs/" rel="license">
+      Creative Commons Attribution 3.0 Serbia License
+    </a>
+    except that which is quoted from elsewhere or attributed to others.
+  </p>
 </div>
 </div>
 
