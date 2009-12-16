@@ -29,6 +29,10 @@ body {
     font-size: 14px;
 }
 
+.entry {
+    margin-top: 1em;
+}
+
 .narrowcolumn .entry, .widecolumn .entry {
     line-height: 21px;
 }
